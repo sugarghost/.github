@@ -42,7 +42,7 @@
 | 최규원   | https://github.com/cooked-developer | 백엔드     |
 | 반원재   | https://github.com/wonjaeban        | 백엔드     |
 | 서혜원   |                                     | 디자인     |
-| 김보경   |                                     | 디자인     |
+| 김보경   | https://github.com/bokyung29        | 디자인     |
 
 ---
 
