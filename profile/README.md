@@ -67,7 +67,12 @@
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/spring data jpa-F28D1A?style=for-the-badge&logo=springdatajpa&logoColor=white">
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/aws ec2-07C160?style=for-the-badge&logo=amazoneaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/aws codedeploy-9D1620?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/aws codepipeline-072240?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
 <div align=center><h3>Tools</h1></div>
