@@ -1,6 +1,4 @@
-# zzz 꿈깨
-<!-- <img src="https://user-images.githubusercontent.com/74045440/159398628-3296c8af-a716-48c6-80ca-81f3cbc78368.png" align=left width=100> -->
-
+# <img src="https://user-images.githubusercontent.com/97428216/160321165-bd337416-a703-4f53-a1f7-5d8844ab66a2.png" align=left width=150> 꿈깨
 > 온라인 3D 방탈출 게임 서비스 😴
 
 <br />
@@ -17,6 +15,11 @@
 <!-- <img width="1363" alt="스크린샷 2022-01-22 오전 5 27 36" src="https://user-images.githubusercontent.com/75469131/150595708-bd84f11e-ed2d-4dfe-9242-1b69e10756ac.png"> -->
 
 <br />
+
+## 📅 프로젝트 기간
+
+- 2022.2.25 ~ 2022.4.9
+- 1차 배포 : 2022.3.30
 
 ## ✨ 주요 기능
 
@@ -73,6 +76,7 @@
   <img src="https://img.shields.io/badge/aws codedeploy-9D1620?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/aws codepipeline-072240?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/github actions-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 <div align=center><h3>Tools</h1></div>
@@ -81,4 +85,52 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+## 📌 바로가기
+- Project : https://zzz-escape.netlify.app
+- 프론트엔드 GitHub Repository : https://github.com/HangHae99Zzz/dream_escape-fe
+- 백엔드 GitHub Respository(Spring) : https://github.com/HangHae99Zzz/RoomEscape_BE
+- 백엔드 GitHub Respository(NodeJS) : https://github.com/HangHae99Zzz/RoomEscape_BE-nodeJS
+
 ## 📺 Detail
+
+<details markdown="1">
+<summary>아키텍처</summary>
+</details>
+
+<details markdown="2">
+<summary>ERD</summary>
+</details>
+
+<details markdown="3">
+<summary>Flow Chart</summary>
+</details>
+
+<details markdown="4">
+<summary>API 명세서</summary>
+  
+> 🚨 API 설계규칙
+
+```
+Rest API URI 설계규칙을 따른다.
+  1. 후행 /는 URI에 포함하지 않는다.
+  2. 계층관계를 나타낼 때 슬래시 구분자를 사용한다. ex) /rooms/{roomId}/quizzes/{quizType}
+  3. 긴 path를 표현하는 경우에는 가독성을 높이기 위해 하이픈(-)을 사용한다.
+  4. 언더바(_)는 URI에 사용하지 않는다.
+  5. URI는 모두 소문자로 작성한다.
+  6. 파일확장자는 URI에 포함하지 않는다.
+  7. 모든 resource는 복수형을 사용한다.
+```
+  
+</details>
+
+## 🔨 Trouble Shooting
+
+> WebRTC signalling 서버 구축 문제
+```
+
+```
+> 게임방 Resource
+```
+
+```
+
