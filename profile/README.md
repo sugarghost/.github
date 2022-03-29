@@ -122,6 +122,8 @@
 
 <details markdown="2">
 <summary>ERD</summary>
+  <img src="https://user-images.githubusercontent.com/97428216/160526555-121176c2-32a6-4968-868c-669ae7234f14.png">
+
 </details>
 
 <details markdown="3">
