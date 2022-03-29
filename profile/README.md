@@ -67,9 +67,9 @@
   <img src="https://img.shields.io/badge/styled-c260af?style=for-the-badge&logo=styledcomponents&logoColor=black">
   <img src="https://img.shields.io/badge/Router-ec4151?style=for-the-badge&logo=reactrouter&logoColor=black">
   <br>
-  <img src="https://img.shields.io/badge/threejs-ffffff?style=for-the-badge&logo=three.js&logoColor=black"> 
-  <img src="https://img.shields.io/badge/webrtc-ffffff?style=for-the-badge&logo=webrtc&logoColor=black">
-  <img src="https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black">
+  <img src="https://img.shields.io/badge/threejs-333333?style=for-the-badge&logo=three.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+  <img src="https://img.shields.io/badge/socket.io-333333?style=for-the-badge&logo=socket.io&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/lighthouse-1a73e8?style=for-the-badge&logo=lighthouse&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-4fb5ba?style=for-the-badge&logo=netlify&logoColor=white">
