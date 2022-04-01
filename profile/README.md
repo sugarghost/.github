@@ -42,7 +42,7 @@
 
 <img src="https://user-images.githubusercontent.com/97428216/161257033-cba16510-b821-4361-8396-201175952730.png">
 <img src="https://user-images.githubusercontent.com/97428216/161257554-418ab409-26e7-425b-99bc-5c0378e1f446.png">
-<img src="https://user-images.githubusercontent.com/97428216/161257667-ddbdfed0-f0a8-4f24-a92d-39baed6af537.png">
+<img src="https://user-images.githubusercontent.com/97428216/161258629-04d6bc89-1e13-4050-87ae-d5968f520cad.png">
 
 
 <br />
