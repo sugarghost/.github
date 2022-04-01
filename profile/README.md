@@ -12,7 +12,7 @@
 >
 > 당신은 꿈 속에서 얼마만큼의 역량을 발휘할 수 있는지 궁금하지 않으신가요?
 
-<!-- <img width="1363" alt="스크린샷 2022-01-22 오전 5 27 36" src="https://user-images.githubusercontent.com/75469131/150595708-bd84f11e-ed2d-4dfe-9242-1b69e10756ac.png"> -->
+
 
 <br />
 
@@ -40,7 +40,10 @@
 - **`게임`**
   팀원들과 보이스채팅을 나누며 방에 배치된 3D 물체를 클릭해 주어진 문제를 풀고 탈출할 수 있습니다. 제한시간 안에 방을 탈출해보세요.
 
-<!-- ![This is the last](https://user-images.githubusercontent.com/75469131/150535885-e6c38a60-19b0-4957-8919-2c78074cdb50.png) -->
+<img src="https://user-images.githubusercontent.com/97428216/161257033-cba16510-b821-4361-8396-201175952730.png">
+<img src="https://user-images.githubusercontent.com/97428216/161257554-418ab409-26e7-425b-99bc-5c0378e1f446.png">
+<img src="https://user-images.githubusercontent.com/97428216/161257667-ddbdfed0-f0a8-4f24-a92d-39baed6af537.png">
+
 
 <br />
 
