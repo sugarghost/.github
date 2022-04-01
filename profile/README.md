@@ -73,7 +73,7 @@
   <br>
   <img src="https://img.shields.io/badge/lighthouse-1a73e8?style=for-the-badge&logo=lighthouse&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-4fb5ba?style=for-the-badge&logo=netlify&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/google analytics-E37400?style=for-the-badge&logo=google analytics&logoColor=white">
 </div>
 <div align=center> 
 </div>
