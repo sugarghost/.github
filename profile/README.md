@@ -160,7 +160,7 @@ Rest API URI 설계규칙을 따른다.
 ## 🔨 Trouble Shooting
 
 <details markdown="2">
-<summary>서비스 부하 문제</summary>
+<summary>메인페이지 서버 부하 문제</summary>
   
 ### ✅ 문제상황
 
