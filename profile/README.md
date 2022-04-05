@@ -72,9 +72,14 @@
   <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-333333?style=for-the-badge&logo=socket.io&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/lighthouse-1a73e8?style=for-the-badge&logo=lighthouse&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-4fb5ba?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/google analytics-E37400?style=for-the-badge&logo=google analytics&logoColor=white">
+  <img src="https://img.shields.io/badge/google analytics-202c3c?style=for-the-badge&logo=google analytics&logoColor=white">
+  <img src="https://img.shields.io/badge/lighthouse-202c3c?style=for-the-badge&logo=lighthouse&logoColor=white">
+  <img src="https://img.shields.io/badge/cloud front-202c3c?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/netlify-202c3c?style=for-the-badge&logo=netlify&logoColor=white">
+
+
+
+
 </div>
 <div align=center> 
 </div>
