@@ -80,9 +80,6 @@
   <img src="https://img.shields.io/badge/cloud front-202c3c?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-202c3c?style=for-the-badge&logo=netlify&logoColor=white">
 
-
-
-
 </div>
 <div align=center> 
 </div>
@@ -126,9 +123,9 @@
 
 <details markdown="1">
 <summary>아키텍처</summary>
-  <img src="https://user-images.githubusercontent.com/74045440/161897296-81c2b25b-c8eb-439f-af1e-5689b7adf36a.png"> 
+  <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b00dba1-5a11-4694-8bce-110e98b10859/Untitled.png"> 
   
-  [해당 아키텍처를 도입하게 된 배경](https://www.notion.so/0cf5b3927f274a2b9e417104328da9bd)
+  [해당 아키텍처를 도입하게 된 배경](https://living-ladybug-fd9.notion.site/0cf5b3927f274a2b9e417104328da9bd)
 </details>
 
 <details markdown="2">
