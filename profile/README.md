@@ -123,7 +123,7 @@
 
 <details markdown="1">
 <summary>아키텍처</summary>
-  <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b00dba1-5a11-4694-8bce-110e98b10859/Untitled.png"> 
+  <img src="https://user-images.githubusercontent.com/97428216/161915642-9e937b04-a72b-44b1-980b-f0ff1ec45f88.png"> 
   
   [해당 아키텍처를 도입하게 된 배경](https://living-ladybug-fd9.notion.site/0cf5b3927f274a2b9e417104328da9bd)
 </details>
