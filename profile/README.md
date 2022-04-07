@@ -41,7 +41,7 @@
 - **`게임`**
   팀원들과 보이스채팅을 나누며 방에 배치된 3D 물체를 클릭해 주어진 문제를 풀고 탈출할 수 있습니다. 제한시간 안에 방을 탈출해보세요.
 
-<img src="https://user-images.githubusercontent.com/97428216/162158971-27ba584f-09fb-4007-a187-11d4c8e80cd6.png">
+<img src="https://user-images.githubusercontent.com/97428216/162159291-3cb321a6-779a-4f54-85a4-6de81f646c3e.png">
 <img src="https://user-images.githubusercontent.com/97428216/161257554-418ab409-26e7-425b-99bc-5c0378e1f446.png">
 <img src="https://user-images.githubusercontent.com/97428216/161258629-04d6bc89-1e13-4050-87ae-d5968f520cad.png">
 
