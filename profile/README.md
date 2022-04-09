@@ -52,7 +52,7 @@
 
 | Name     | GitHub                             | Position  |
 | -------- | ---------------------------------- | --------- |
-| 류강현🔰   | https://github.com/softwat          | 프론트엔드 |
+| 류강현🔰   | https://github.com/f-ffff-f          | 프론트엔드 |
 | 우혜민   | https://github.com/hyemin9403       | 프론트엔드 |
 | 김가은🔰   | https://github.com/paran22          | 백엔드     |
 | 최규원   | https://github.com/cooked-developer | 백엔드     |
