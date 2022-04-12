@@ -26,7 +26,6 @@
 
 ## 📌 바로가기
 - [Service](https://zzz-escape.netlify.app)
-- [GitHub 메인페이지](https://github.com/HangHae99Zzz)
 - [프론트엔드 GitHub](https://github.com/HangHae99Zzz/dream_escape-fe)
 - [백엔드 GitHub(NodeJS)](https://github.com/HangHae99Zzz/RoomEscape_BE-nodeJS)
 - [시연영상](https://youtu.be/4LltjiHHG38)
