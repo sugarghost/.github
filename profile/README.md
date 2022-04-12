@@ -25,10 +25,11 @@
 <br />
 
 ## 📌 바로가기
-- Project : https://zzz-escape.netlify.app
-- 프론트엔드 GitHub Repository : https://github.com/HangHae99Zzz/dream_escape-fe
-- 백엔드 GitHub Respository(Spring) : https://github.com/HangHae99Zzz/RoomEscape_BE
-- 백엔드 GitHub Respository(NodeJS) : https://github.com/HangHae99Zzz/RoomEscape_BE-nodeJS
+- [Service](https://zzz-escape.netlify.app)
+- [GitHub 메인페이지](https://github.com/HangHae99Zzz)
+- [프론트엔드 GitHub](https://github.com/HangHae99Zzz/dream_escape-fe)
+- [백엔드 GitHub(NodeJS)](https://github.com/HangHae99Zzz/RoomEscape_BE-nodeJS)
+- [시연영상](https://youtu.be/4LltjiHHG38)
 
 <br />
 
